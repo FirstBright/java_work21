@@ -1,0 +1,19 @@
+class AA{
+	public AA(){
+		System.out.println("AA 持失切");
+	}
+}
+class BB{
+	public BB(){
+		System.out.println("BB 持失切");
+	}
+}
+
+public class Ex03 {
+
+	public static void main(String[] args) {
+		new AA();
+		new BB();
+	}
+	
+}

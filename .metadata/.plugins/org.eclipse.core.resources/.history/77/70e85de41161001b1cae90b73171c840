@@ -1,0 +1,16 @@
+
+class A{
+	public int a=10;
+	public int b=20;
+}
+public class Ex03 {
+	Ex03(){
+		A a = new A();
+	}
+	public void doA(A a){
+		
+	}
+	public static void main(String[] args) {
+		new Ex03();
+	}
+}

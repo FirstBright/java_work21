@@ -1,0 +1,16 @@
+class Account{
+	String accNumber;	// 12-34-89
+	String ssNumber;	// 850511-11111211
+	int bal;			// 0
+	
+	
+	
+}
+
+// f2 클래스 이름 바꾸는 
+public class AccountMana {
+
+	public static void main(String[] args) {
+		
+	}
+}

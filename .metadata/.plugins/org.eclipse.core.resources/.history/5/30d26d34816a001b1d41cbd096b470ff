@@ -1,0 +1,53 @@
+class AAA{
+	int a = 10;
+	public void doA(BBB b){
+		b.b = 30;
+	}
+}
+class BBB{
+	int b = 20;
+	public void doB(AAA a){
+		a.a = 40;
+	}
+}
+/*
+ * c언어 ...도전프로그램 3 ... 
+ * 자바 팩토리얼... 
+ */
+public class Ex07 {
+	public static void main(String[] args) {
+		int c = 4;
+		AAA aa = new AAA();
+		BBB bb = new BBB();
+		BBB bb1 = new BBB();
+		BBB bb2 = new BBB();
+		BBB bb3 = new BBB();
+		
+		System.out.println("aa.a = "+aa.a);
+		System.out.println("bb.b = "+bb.b);
+		
+		aa.doA(bb);
+		aa.doA(bb1);
+		aa.doA(bb2);
+		aa.doA(bb3);
+		
+		bb.doB(aa);
+		String a = "abc";
+		String b = "def";
+		String c = a+b;
+		
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

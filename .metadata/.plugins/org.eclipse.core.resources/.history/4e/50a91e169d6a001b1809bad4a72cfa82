@@ -1,0 +1,11 @@
+class Account{
+	
+}
+
+// f2 클래스 이름 바꾸는 
+public class AccountMana {
+
+	public static void main(String[] args) {
+		
+	}
+}
