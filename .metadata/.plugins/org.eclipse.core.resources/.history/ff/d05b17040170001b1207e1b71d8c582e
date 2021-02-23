@@ -1,9 +1,0 @@
-class BBB{
-	int a = 10;
-	int b = 20;
-}
-public class AAA {
-	public static void main(String[] args) {
-		
-	}
-}

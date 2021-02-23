@@ -1,9 +1,0 @@
-class A{
-	public void doA(){ System.out.println( "A class" ); }
-}
-class B{
-	
-}
-public class Ex01 {
-
-}

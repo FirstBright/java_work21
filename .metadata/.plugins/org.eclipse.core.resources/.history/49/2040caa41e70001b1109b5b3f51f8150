@@ -1,7 +1,0 @@
-package aa;
-
-public class Abs {
-	public void doAbs(int num1,int num2){
-		
-	}
-}

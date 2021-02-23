@@ -1,8 +1,0 @@
-import aa.Abs;
-
-public class Ex02 {
-
-	public static void main(String[] args) {
-		Abs abs = new Abs();
-	}
-}

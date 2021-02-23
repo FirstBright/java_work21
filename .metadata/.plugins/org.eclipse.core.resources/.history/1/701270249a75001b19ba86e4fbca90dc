@@ -1,0 +1,8 @@
+
+public class Desk {
+
+	private int leg;
+	private String name;
+	
+	
+}
