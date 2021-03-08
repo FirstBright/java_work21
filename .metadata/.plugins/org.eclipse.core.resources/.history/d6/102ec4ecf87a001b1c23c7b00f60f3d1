@@ -1,0 +1,10 @@
+
+public class Ex01 {
+	Ex01(){
+		Student stu = new Student();
+	}
+
+	public static void main(String[] args) {
+		new Ex01();
+	}
+}

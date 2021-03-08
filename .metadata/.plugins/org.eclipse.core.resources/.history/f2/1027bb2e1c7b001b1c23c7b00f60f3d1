@@ -1,0 +1,14 @@
+
+public class Main {
+
+	/*
+	 * 1. 학생등록
+	 * 2. 학생조회
+	 * 3. 학생수정
+	 * 4. 학등삭제
+	 */
+	
+	public static void main(String[] args) {
+		
+	}
+}

@@ -1,0 +1,14 @@
+package main;
+import dog.Dog;
+
+public class MyMain {
+	MyMain(){
+		Dog dog = new Dog();
+		Cat cat = new Cat();
+		
+		
+	}
+	public static void main(String[] args) {
+		new MyMain();
+	}
+}

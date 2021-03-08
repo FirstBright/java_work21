@@ -1,0 +1,21 @@
+package main;
+import dog.Dog;
+
+/*
+ * java jsp spring 6개월
+ * c , C# db 6개월..
+ * python 빅데이터... 인공지능..
+ * ...????
+ */
+public class MyMain {
+	MyMain(){
+		
+		Dog dog = new Dog();
+		cat.Cat cat = new cat.Cat();
+		
+		
+	}
+	public static void main(String[] args) {
+		new MyMain();
+	}
+}

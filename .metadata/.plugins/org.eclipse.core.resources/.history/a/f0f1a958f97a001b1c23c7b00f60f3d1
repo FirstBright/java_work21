@@ -1,0 +1,6 @@
+package aa.bb.cc;
+
+public class Student {
+	public int x = 10;
+	private int y = 20;
+}

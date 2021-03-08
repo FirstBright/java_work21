@@ -1,0 +1,11 @@
+class A{
+	A(){
+		AccessWay.A++;
+	}
+}
+
+public class Ex03 {
+	public static void main(String[] args){
+		
+	}
+}

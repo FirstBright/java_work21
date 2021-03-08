@@ -1,0 +1,16 @@
+class AA{
+	public void doMe(){ System.out.println("AA.doME"); }
+}
+class BB{
+	public void doMe(){ System.out.println("BB.doME"); }
+}
+class CC{
+	public void doMe(){ System.out.println("CC.doME"); }
+}
+class AABBCC{
+	
+}
+
+public class Ex03 {
+
+}

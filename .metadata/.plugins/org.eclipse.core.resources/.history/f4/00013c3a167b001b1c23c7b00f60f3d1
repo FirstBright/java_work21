@@ -1,0 +1,11 @@
+
+public class Ex01 {
+	int static a = 10;
+	
+	Ex01(){
+		
+	}
+	public static void main(String[] args) {
+		new Ex01();
+	}
+}

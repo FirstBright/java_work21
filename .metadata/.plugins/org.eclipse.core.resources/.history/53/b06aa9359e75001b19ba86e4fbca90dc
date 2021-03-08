@@ -1,8 +1,0 @@
-public class Employee {
-	private String name;
-	private String Jumin;
-	private int sal;
-/* private 접근제어지시자 설정
-
-*/
-}

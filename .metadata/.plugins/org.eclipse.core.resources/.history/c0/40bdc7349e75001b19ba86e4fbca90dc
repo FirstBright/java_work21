@@ -1,6 +1,0 @@
-public class Employee {
-	private String name;
-	private String Jumin;
-	private int sal;
-
-}

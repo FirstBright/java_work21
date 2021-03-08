@@ -1,0 +1,8 @@
+package dog;
+
+public class Dog {
+
+	public void welcom(Cat cat){
+		
+	}
+}

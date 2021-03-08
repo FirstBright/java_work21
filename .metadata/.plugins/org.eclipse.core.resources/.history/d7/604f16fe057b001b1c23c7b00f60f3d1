@@ -1,0 +1,9 @@
+package cat;
+
+public class Cat {
+	public void makeSound(){
+		System.out.println("¾ß¿Ë");
+	}
+	
+	
+}

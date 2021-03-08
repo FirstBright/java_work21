@@ -1,0 +1,10 @@
+package main;
+
+public class MyMain {
+	MyMain(){
+		
+	}
+	public static void main(String[] args) {
+		new MyMain();
+	}
+}

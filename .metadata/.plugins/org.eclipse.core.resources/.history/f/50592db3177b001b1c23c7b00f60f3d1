@@ -1,0 +1,7 @@
+class AccessWay{
+	public static int a = 10;
+	
+}
+public class Ex02 {
+
+}

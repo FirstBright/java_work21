@@ -1,0 +1,12 @@
+class A{
+	A(){
+		AccessWay.a++;
+		System.out.println("AccessWay.a = "+AccessWay.a);
+	}
+}
+
+public class Ex03 {
+	public static void main(String[] args){
+		
+	}
+}
